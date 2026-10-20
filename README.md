@@ -60,6 +60,19 @@ The final analysis dataset contains **57 observations: 19 years × 3 loan progra
 
 Outstanding balances are point-in-time measures, so quarterly values were not summed to create annual totals.
 
+
+## Dashboard Previews
+
+### Student Loan Portfolio Analysis
+
+![Student Loan Portfolio Analysis](<img width="1370" height="773" alt="Student_Loan_Portfolio_Analysis" src="https://github.com/user-attachments/assets/06fd005a-5c1b-4150-a8b2-609011e2552a" />)
+
+### Program Comparison & Borrowing Analysis
+
+![Program Comparison and Borrowing Analysis](<img width="1367" height="768" alt="Program_Comparison_Borrowing_Analysis" src="https://github.com/user-attachments/assets/a74d7178-efd6-4d33-889e-547eb376fea4" />)
+
+
+
 ## Tableau Dashboards
 
 ### 1. Student Loan Portfolio Analysis
