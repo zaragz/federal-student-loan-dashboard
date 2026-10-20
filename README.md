@@ -65,11 +65,11 @@ Outstanding balances are point-in-time measures, so quarterly values were not su
 
 ### Student Loan Portfolio Analysis
 
-![Student Loan Portfolio Analysis](<img width="1370" height="773" alt="Student_Loan_Portfolio_Analysis" src="https://github.com/user-attachments/assets/06fd005a-5c1b-4150-a8b2-609011e2552a" />)
+![Student Loan Portfolio Analysis](<img width="1370" height="773" alt="Student_Loan_Portfolio_Analysis" src="https://github.com/user-attachments/assets/ca5a7d29-e619-41c2-8b42-96fa2ae6da17" />)
 
 ### Program Comparison & Borrowing Analysis
 
-![Program Comparison and Borrowing Analysis](<img width="1367" height="768" alt="Program_Comparison_Borrowing_Analysis" src="https://github.com/user-attachments/assets/a74d7178-efd6-4d33-889e-547eb376fea4" />)
+![Program Comparison and Borrowing Analysis](<img width="1367" height="768" alt="Program_Comparison_Borrowing_Analysis" src="https://github.com/user-attachments/assets/57a7f4f8-3e68-4589-8a74-a46311ab249b" />)
 
 
 
